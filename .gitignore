@@ -1,0 +1,7 @@
+
+*.pyc
+*.csv
+result/result_report.xlsx
+*.model
+*.npy
+*.zip
