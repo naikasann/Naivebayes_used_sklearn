@@ -123,7 +123,12 @@ Mecabの単語辞書は初期に格納されているものでは形態素解析
 * カテゴリー間どうする。(カテゴリーをまたいだデータについて)
 
 ---------------------------------------------------
+## 2020/01/23 おそらく最終更新(このレポジトリについて)
 
+過去のレポジトリの更新データをすべて移行し、ラベルのデータなどのあまり残っているとうれしくないデータを
+削除した。
+
+---------------------------------------------------
 ### 参考文献
 1. [【Python】自然言語処理で使われるTF-IDFと単純ベイズ分類器(Naive Bayes)について使いながら解説する - Qiita](https://qiita.com/tomone_hata/items/67e7f9415dbf5c8ff8ba)
 2. [sklearn.metrics.classification_report — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
