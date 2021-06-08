@@ -1,6 +1,7 @@
 # ---naivebayes program---
 
 ナイーブベイズ分類器の学習のために作成したプログラム。
+写経に近いかも
 
 ## システム概要
 
@@ -127,6 +128,7 @@ Mecabの単語辞書は初期に格納されているものでは形態素解析
 
 ---------------------------------------------------
 ### 参考文献
+1.の記事をかなり参照しています．
 1. [【Python】自然言語処理で使われるTF-IDFと単純ベイズ分類器(Naive Bayes)について使いながら解説する - Qiita](https://qiita.com/tomone_hata/items/67e7f9415dbf5c8ff8ba)
 2. [sklearn.metrics.classification_report — scikit-learn 0.21.3 documentation](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.classification_report.html)
 3. [pythonによる日本語前処理備忘録 | ブログ一覧 | DATUM STUDIO株式会社](https://datumstudio.jp/blog/python%E3%81%AB%E3%82%88%E3%82%8B%E6%97%A5%E6%9C%AC%E8%AA%9E%E5%89%8D%E5%87%A6%E7%90%86%E5%82%99%E5%BF%98%E9%8C%B2)
